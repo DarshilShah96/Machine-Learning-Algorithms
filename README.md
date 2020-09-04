@@ -1,1 +1,1 @@
-# Linear-Regression--Example
+# Different Algorithms of Machine Learning 
